@@ -1,0 +1,49 @@
+/* npm run dev -->to start this application
+
+ atlast database access
+ username - ecommerceuser
+ pass = divij.test1
+
+ packages => {
+
+     express, nodemon
+     
+     colors = terminal theme
+     
+     dotenv - to run our evn file
+     
+     morgan -> this tells api request which url hits in console
+     
+     mongoose -> to access mongodb      database
+     
+     bcrypt -> hash password
+     
+      jswebtoken ->more security
+      
+      react-icons
+      
+      react-helmet -> SEO (npm library )
+      
+      axios ->communication btw front and back
+      
+      react-toastify = notifcatiom
+      
+      concurrenctly ->run 2 apps with same 
+      command ie. run both front end and backend
+cors ->so that we dont see cross origion error(from one server to another)
+
+       slugify - whiteSpace ki jagah -/_ (SEO)
+       express-formidable = for getting the actual photo ans not the string
+
+       antd-->css design component
+       use import 'antd/dist/reset.css';
+
+       braintree -> payment gateway
+
+       moment ->deal with date and time
+
+ }
+
+
+
+*/

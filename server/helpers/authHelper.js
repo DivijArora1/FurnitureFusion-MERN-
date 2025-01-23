@@ -1,7 +1,7 @@
 //encrpt and decrypt password
 //hash and compare n decrypt
 
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 //hashing
 export const hashPassword = async (password) => {
